@@ -23,5 +23,3 @@ except:
     quit()
 
 computepay(wh, wr)
-
-print("Done")
